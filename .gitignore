@@ -2,3 +2,10 @@ dlib_face_recognition_resnet_model_v1.dat
 shape_predictor_68_face_landmarks.dat
 image.jpg
 protected_folders.json
+folder_protector.log
+config.json
+reference_face.jpg
+secure_folder.spec 
+secure_folder.exe.manifest
+build
+dist

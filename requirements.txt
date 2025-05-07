@@ -6,3 +6,7 @@ passlib[bcrypt]
 torch
 torchvision
 Pillow
+deepface
+dlib
+watchdog
+opencv-python
